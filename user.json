@@ -1,0 +1,16 @@
+{
+    "LICENSE_KEY": "I5A-8R6TL0",
+    "SIGNER_PRIVATE_KEY": "",
+    "DEV_ADDRESS": "",
+    "FUNDER_PRIVATE_KEY": "",
+    "SELLER_PRIVATE_KEY": "",
+    "JITO_TIP": "0.0001",
+    "SELL_TIP": "0.003",
+    "BLOCKENGINEURL": "ny.mainnet.block-engine.jito.wtf",
+    "DEVBUY": "0.2",
+    "LUT_Address": "",
+    "COMPUTE_UNIT_PRICE": "1000000",
+    "COMPUTE_LIMIT_PRICE": "2000000",
+    "CAP_SOLVER_API_KEY": "",
+    "BLOCKCHYPER_API_KEY": ""
+}
